@@ -7,7 +7,8 @@
 ## Part A
 
 ```java
-public static Boolean avengersAssemble(boolean dcHero, boolean avengerHero) {
+public static Boolean avengersAssemble(boolean dcHero, 
+                                        boolean avengerHero) {
     return null;
 }
 ```
